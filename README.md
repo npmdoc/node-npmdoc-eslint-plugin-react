@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/eslint-plugin-react.png?downloads=true)](https://www.npmjs.com/package/eslint-plugin-react)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-eslint-plugin-react_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-eslint-plugin-react%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
