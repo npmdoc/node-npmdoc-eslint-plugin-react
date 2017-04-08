@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/eslint-plugin-react.png?downloads=true)](https://www.npmjs.com/package/eslint-plugin-react)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-eslint-plugin-react%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-eslint-plugin-react%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.npmPackageListing.svg)
 
