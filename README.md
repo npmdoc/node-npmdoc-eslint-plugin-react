@@ -1,9 +1,14 @@
-# api documentation for  [eslint-plugin-react (v6.10.3)](https://github.com/yannickcr/eslint-plugin-react)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-react.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-react)
+# npmdoc-eslint-plugin-react
+
+#### api documentation for  [eslint-plugin-react (v6.10.3)](https://github.com/yannickcr/eslint-plugin-react)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-react.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-react)
+
 #### React specific linting rules for ESLint
 
-[![NPM](https://nodei.co/npm/eslint-plugin-react.png?downloads=true)](https://www.npmjs.com/package/eslint-plugin-react)
+[![NPM](https://nodei.co/npm/eslint-plugin-react.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/eslint-plugin-react)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-eslint-plugin-react%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-eslint-plugin-react/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Yannick Croissant",
-        "email": "yannick.croissant+npm@gmail.com"
+        "name": "Yannick Croissant"
     },
     "bugs": {
         "url": "https://github.com/yannickcr/eslint-plugin-react/issues"
@@ -64,8 +68,7 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "yannickcr",
-            "email": "yannick.croissant+npm@gmail.com"
+            "name": "yannickcr"
         }
     ],
     "name": "eslint-plugin-react",
@@ -73,7 +76,6 @@
     "peerDependencies": {
         "eslint": "^2.0.0 || ^3.0.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yannickcr/eslint-plugin-react.git"
@@ -87,19 +89,6 @@
     "version": "6.10.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module eslint-plugin-react](#apidoc.module.eslint-plugin-react)
-1.  object <span class="apidocSignatureSpan">eslint-plugin-react.</span>configs
-1.  object <span class="apidocSignatureSpan">eslint-plugin-react.</span>deprecatedRules
-1.  object <span class="apidocSignatureSpan">eslint-plugin-react.</span>rules
-
-
-
-# <a name="apidoc.module.eslint-plugin-react"></a>[module eslint-plugin-react](#apidoc.module.eslint-plugin-react)
 
 
 
